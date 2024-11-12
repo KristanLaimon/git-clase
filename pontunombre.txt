@@ -1,0 +1,8 @@
+[Agrega tu nombre al final de la lista, haz commit y luego haces push]
+Ejemplo:
+- Kristan Ruíz Limón
+- "Tunombreaquí"
+- "El siguiente por acá"
+
+----------- Lista Nombres -----------
+- 
